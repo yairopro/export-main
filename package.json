@@ -1,6 +1,6 @@
 {
   "name": "export-main",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A function to export a package as module.exports and exports.default at the same time.",
   "main": "index.js",
   "repository": "https://github.com/yairopro/export-main.git",
